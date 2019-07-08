@@ -1,11 +1,11 @@
 <footer>
-  <div class="content-wrap">
-    <nav>
-        <a href="#about">About</a>
-        <a href="#research">Research</a>
-        <a href="#teaching">Teaching</a>
-        <a href="#contact">Contact</a>
-    </nav>
-    <p class="copyright">All content copyright 2016</p>
+
+  <div class="wrapper">
+    &copy; Copyright {{ site.time | date: '%Y' }} {{ site.name }}.
+    {{ site.footer_text }}
+    {% if site.last_updated %}
+        Last updated: {{ site.last_updated }}.
+    {% endif %}
   </div>
+
 </footer>
