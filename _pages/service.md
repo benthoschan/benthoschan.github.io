@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /service/
-title: service and outreach
+title: service
 description: contributions to the college, community, and (hopefully) the field of biogeoscience
 ---
 
