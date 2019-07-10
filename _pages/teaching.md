@@ -2,9 +2,12 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 ---
+Graduate Teaching Assistant for OC 201 Oceanography, Oregon State University, Winter/Spring/Fall 2018/2019
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Graduate Teaching Assistant for OC 449/549 Ecological Theories in Biological and Fisheries Oceanography, Spring 2018 
 
-Organize your courses by years, topics, or universities, however you like!
+Graduate Teaching Assistant for OC/FW 434/534 Estuarine Ecology, Oregon State University, Fall 2017
+
+Undergraduate Teaching Assistant for BIOL 2003 Diversity of Life I, Dalhousie University, Fall 2015/2016
